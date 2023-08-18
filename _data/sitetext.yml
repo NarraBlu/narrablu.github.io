@@ -11,25 +11,29 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome!
+    text: Thanks for stopping by ...
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Our committed experts work closely with your team to determine the best technology to streamline your workflows, reduce your operating costs and to maximise your business advantage."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+    #find icons at https://fontawesome.com/icons
+      - title: "Technology Advisory"
+        desc: "We use an objective, assessment based approach to help plan and guide your technology journey."
+        icon: fas fa-stethoscope 
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Micro tools"
+        desc: "We use proven technology & software tools to join the integration dots and close data gaps in your business."
+        icon: fas fa-wrench
+ #     - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+ #       desc: "Your description here, full **Markdown** support"
+ #       icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
