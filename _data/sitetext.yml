@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
     #find icons at https://fontawesome.com/icons
       - title: "Technology Advisory"
-        desc: "We use an objective, assessment based approach to help plan and guide your technology journey. Our ethos is undertake the minimum planning and analysis which is required to achive the desired impact."
+        desc: "We use an objective, assessment based approach to help plan and guide your technology journey. Our ethos is undertake the minimum planning and analysis which is required to achieve the desired impact."
         icon: fas fa-stethoscope 
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Human Centred Design"
+        desc: "We put real people at centre of each phase of our clarify - ideate - develop - implement approach. This ensures that together we create high value products and services that people need."
         icon: fas fa-laptop
       - title: "Micro tools"
         desc: "We use proven technology & software tools to join the integration dots, closing process and data gaps in your business."
@@ -41,18 +41,18 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-#  timeline:
-#    title: "Timeline"
-#    text: "Lorem ipsum timeline"
-#    section: timeline
-#    # left is the default
-#    #start_align: "left"
-#    events:
-#      - title: "Our Humble Beginnings"
-#        year: "2009-2011"
-#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-#        image: assets/img/timeline/1.jpg
-#        alt:
+  timeline:
+    title: "Timeline"
+    text: "Lorem ipsum timeline"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "We started here"
+        year: "2020-2022"
+        desc: "Based on our experiences during the pandemic, we decided to adapt to the changes we were seeing in the business workplace."
+        image: assets/img/timeline/1.jpg
+        alt:
 #      - title: "An Agency is Born"
 #        year: "March 2011"
 #        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
@@ -75,7 +75,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "We offer expert IT consulting services, guiding businesses through technological challenges with strategic advice, seamless implementation, and custom software development solutions."
     section: about
 
   clients:
@@ -135,7 +135,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email us at narrablu@gmail.com or fill in the form below."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -145,7 +145,7 @@ en: &DEFAULT_EN
     phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
+    subject: "Narrablu Contact Form Submission"
     submit: "Send Message"
 
   footer:
@@ -157,8 +157,8 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
+#      - url: https://github.com/raviriley/agency-jekyll-theme
+#        icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:
@@ -294,7 +294,7 @@ es: &DEFAULT_ES
 
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: "Envíenos un correo electrónico a narrablu@gmail.com o complete el formulario a continuación."
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."

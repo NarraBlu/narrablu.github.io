@@ -13,10 +13,10 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: about
+#    - title: "Portfolio"
+#      section: portfolio
+#    - title: "About"
+#      section: about
 #    - title: "Timeline"
 #      section: timeline
 #    - title: "Team"
@@ -40,10 +40,10 @@ es: &DEFAULT_ES
   nav:
     - title: "Servicios"
       section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
+#    - title: "Portafolio"
+#      section: portafolio
+#    - title: "Sobre Nosotros"
+#      section: nosotros
 #    - title: "Cronología"
 #      section: cronologia
 #    - title: "Equipo"
