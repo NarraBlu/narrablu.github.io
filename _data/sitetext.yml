@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
     #find icons at https://fontawesome.com/icons
       - title: "Technology Advisory"
-        desc: "We use an objective, assessment based approach to help plan and guide your technology journey. Our ethos is undertake the minimum planning and analysis which is required to achieve the desired impact."
+        desc: "We use an objective, assessment based approach to help plan and guide your technology journey. Our ethos is to undertake just-enough planning and analysis which is required to achieve the desired outcome."
         icon: fas fa-stethoscope 
       - title: "Human Centred Design"
-        desc: "We put real people at centre of each phase of our clarify - ideate - develop - implement approach. This ensures that together we create high value products and services that people need."
+        desc: "We put real people at centre of each phase of our Clarify - Ideate - Develop - Implement approach. This ensures that together we create high value products and services that people need."
         icon: fas fa-laptop
       - title: "Micro tools"
         desc: "We use proven technology & software tools to join the integration dots, closing process and data gaps in your business."
@@ -155,7 +155,7 @@ en: &DEFAULT_EN
         icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://linkedin.com/company/narrablu
         icon: "fab fa-linkedin-in"
 #      - url: https://github.com/raviriley/agency-jekyll-theme
 #        icon: "fab fa-github"
@@ -314,7 +314,7 @@ es: &DEFAULT_ES
         icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://linkedin.com/company/narrablu
         icon: "fab fa-linkedin-in"
       - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"

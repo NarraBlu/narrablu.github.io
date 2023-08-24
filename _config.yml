@@ -25,8 +25,8 @@ author     : narrablu@gmail.com
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 logo: 
-  path: assets\img\NBlogo-v4-accent colour-3-dark.png
-  height: 82 #height in px, defaults to 52px
+  path: assets\img\NBlogo-v4b-accent-colour-3-dark.png
+  height: 52 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
